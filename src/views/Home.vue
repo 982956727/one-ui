@@ -3,7 +3,7 @@
     <div class="topnavAndBanner">
       <Topnav />
       <div class="banner">
-        <h1>GuLu UI</h1>
+        <h1>One UI</h1>
         <h2>一个惹人喜爱的 UI 框架</h2>
         <p class="actions">
           <a href="https://github.com">GitHub</a>
