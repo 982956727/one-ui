@@ -58,15 +58,24 @@ $color: #b1b1b1;
 
   @media(min-width: 800px) {
     width: 800px;
+    >ul {
+      >li {
+        width: 50%;
+      }
+    }
   }
   @media(min-width: 1200px) {
     width: 1200px;
+    >ul {
+      >li {
+        width: 33%;
+      }
+    }
   }
   > ul {
     display: flex;
     flex-wrap: wrap;
     >li {
-      width: 400px;
       margin: 16px 0;
       display: grid;
       justify-content: start;
