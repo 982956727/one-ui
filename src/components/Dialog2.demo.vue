@@ -15,7 +15,7 @@ import {
 } from 'vue'
 import {
   openDialog
-} from '../lib/openDialog'
+} from '../lib/index'
 export default {
   components: {
     Button
